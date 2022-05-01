@@ -1,4 +1,12 @@
-### Hi there 👋
+### Who am I
+
+I am a developer, who specializes in TypeScript, React and anything in between. That includes
+
+1. CSS
+2. HTML
+3. NodeJS
+4. Webpack
+5. Nothing More.
 
 <!--
 **theZetrax/theZetrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
