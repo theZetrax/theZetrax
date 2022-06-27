@@ -1,12 +1,11 @@
 ### Who am I
 
-I am a developer, who specializes in TypeScript, React and anything in between. That includes
+JavaScript is more about the eco-system instead of the lanugage, I suggest you look out for the builders, runtimes and debuggers instead of focusing on the lanugage. Also, I don't consider the language to be bad but JS will surely drive you crazy.
 
-1. CSS
-2. HTML
-3. NodeJS
-4. Webpack
-5. Nothing More.
+- 🔭 I’m currently working on a golang written programming language called `Sprite`
+- 💬 Ask me about NodeJS, Typescript and VSCode
+- ⚡ Fun fact: I love animals, I think they really are real Pokemon
+- 📫 How to reach me: Twitter (@_zetrax) 
 
 <!--
 **theZetrax/theZetrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
