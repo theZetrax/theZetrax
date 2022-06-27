@@ -1,4 +1,4 @@
-### Who am I
+### 🦕 About Me
 
 JavaScript is more about the eco-system instead of the lanugage, I suggest you look out for the builders, runtimes and debuggers instead of focusing on the lanugage. Also, I don't consider the language to be bad but JS will surely drive you crazy.
 
